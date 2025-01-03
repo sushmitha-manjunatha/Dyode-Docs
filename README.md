@@ -1,4 +1,4 @@
-# Dyode-Docs
+# DyodeInternational-Docs
 User Guide
 Registration:
 ![image](https://github.com/user-attachments/assets/377e79cd-7a41-4f7e-a588-1767e75a263c)
